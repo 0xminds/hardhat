@@ -1,5 +1,12 @@
 # hardhat
 
+## 2.22.17
+
+### Patch Changes
+
+- c6efe1d: fix: don't panic when a precompile errors
+- e47b495: Added support for solc versions 0.8.28
+
 ## 2.22.16
 
 ### Patch Changes
